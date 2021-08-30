@@ -22,8 +22,6 @@ export class StringCollection extends Sort{
 
         this.data = valString.join('');
 
-
-
         return;
     }
 }
